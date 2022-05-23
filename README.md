@@ -12,6 +12,7 @@ go get github.com/gofiber/fiber/v2
 ## Install GORM with MySQL:
 ```
 go get -u gorm.io/gorm
+```
 go get -u gorm.io/driver/mysql
 ```
 
