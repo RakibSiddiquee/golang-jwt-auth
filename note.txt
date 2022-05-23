@@ -1,0 +1,13 @@
+Fiber Framework: https://docs.gofiber.io/
+go get github.com/gofiber/fiber/v2
+
+GORM: 
+go get -u gorm.io/gorm
+go get -u gorm.io/driver/mysql
+
+bcrypt: for password hashing
+
+Testing Medium: Postman
+
+Validator package:
+https://github.com/go-playground/validator
