@@ -18,10 +18,10 @@ http://localhost:8000/api/register
 ### Login URL: 
 http://localhost:8000/api/login  
 
-### Get logged in user after login: 
-http://localhost:8000/api/user  
+### Get logged in user after login:
+http://localhost:8000/api/user 
 
-### Logout URL: 
+### Logout URL:
 http://localhost:8000/api/logout
 
 
